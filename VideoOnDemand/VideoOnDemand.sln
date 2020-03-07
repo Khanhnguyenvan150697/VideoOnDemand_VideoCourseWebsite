@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VOD.UI", "VOD.UI\VOD.UI.csproj", "{01D136F1-B30F-4FEE-AA1C-BC6814AF3816}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VOD.Common", "VOD.Common\VOD.Common.csproj", "{C3B623E0-91B8-4237-B784-0BC1CA7743AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VOD.Database", "VOD.Database\VOD.Database.csproj", "{6CB77048-2D40-4EA8-A082-9F648A11AB28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01D136F1-B30F-4FEE-AA1C-BC6814AF3816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01D136F1-B30F-4FEE-AA1C-BC6814AF3816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01D136F1-B30F-4FEE-AA1C-BC6814AF3816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01D136F1-B30F-4FEE-AA1C-BC6814AF3816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3B623E0-91B8-4237-B784-0BC1CA7743AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B623E0-91B8-4237-B784-0BC1CA7743AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B623E0-91B8-4237-B784-0BC1CA7743AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B623E0-91B8-4237-B784-0BC1CA7743AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CB77048-2D40-4EA8-A082-9F648A11AB28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB77048-2D40-4EA8-A082-9F648A11AB28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB77048-2D40-4EA8-A082-9F648A11AB28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB77048-2D40-4EA8-A082-9F648A11AB28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0101962-8107-4041-85F3-D571445BF4CE}
+	EndGlobalSection
+EndGlobal
